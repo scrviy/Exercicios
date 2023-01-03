@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ff1+6k83KhCHVaKMQ+P0epVwE+9BW06VBOttLnOpf3BpgpeD4b+J6frDZgUGkLdPciXI7RyOXSdvYUq26Cpf7w==",
+  "success": true,
+  "projectFilePath": "/home/scrviy/dev/dotnet/Exercicios/Exercicios.csproj",
+  "expectedPackageFiles": [
+    "/home/scrviy/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
